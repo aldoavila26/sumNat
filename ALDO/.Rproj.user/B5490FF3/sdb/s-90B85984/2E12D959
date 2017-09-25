@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "^.*\\.Rproj$\n^\\.Rproj\\.user$\n",
+    "created" : 1506367953204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2708567950",
+    "id" : "2E12D959",
+    "lastKnownWriteTime" : 1506367919,
+    "last_content_update" : 1506367919,
+    "path" : "C:/Users/usuario/Desktop/R_Projects/eee/ALDO/.Rbuildignore",
+    "project_path" : ".Rbuildignore",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

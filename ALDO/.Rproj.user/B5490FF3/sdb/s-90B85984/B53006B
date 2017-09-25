@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: ALDO\nType: Package\nTitle:aldoavila\nVersion: 0.1.0\nAuthor: aldoavila26\nMaintainer: aldo avila <aldoavila26@gmail.com>\nDescription: paquete nuevo\nLicense: LGPL-2.1\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1506367964387.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "47032826",
+    "id" : "B53006B",
+    "lastKnownWriteTime" : 1506368077,
+    "last_content_update" : 1506368077445,
+    "path" : "C:/Users/usuario/Desktop/R_Projects/eee/ALDO/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

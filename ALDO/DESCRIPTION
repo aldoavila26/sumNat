@@ -1,0 +1,10 @@
+Package: ALDO
+Type: Package
+Title:aldoavila
+Version: 0.1.0
+Author: aldoavila26
+Maintainer: aldo avila <aldoavila26@gmail.com>
+Description: paquete nuevo
+License: LGPL-2.1
+Encoding: UTF-8
+LazyData: true
